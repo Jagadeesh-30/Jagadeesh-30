@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jagadeesh
 - 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning ...Certification course in Data Analytics
+- 🌱 I’m a Certified Data Analyst
 - 💞️ I’m looking for the oppurtunity... in Data Analytics
 - 📫 How to reach me ... email - jagadeeshmano30@outlook.com; +917702560191
 
